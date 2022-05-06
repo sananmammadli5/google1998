@@ -1,0 +1,105 @@
+#logo{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#searchtitle{
+    text-align: center;
+    font-size: 20px;
+}
+
+#input{
+    text-align: center;
+}
+
+input{
+    width: 400px;
+    height: 20px;
+    position: relative;
+    bottom: 10px;
+}
+
+#container{
+    background-color:aliceblue;
+}
+
+#submit{
+    text-align: center;
+}
+
+input[type=submit]{
+    width: 150px;
+    margin-top:5px;
+}
+
+.block1{
+    background-color: aqua;
+    list-style-type: none;
+    font-size: 20px;
+    text-align: center;
+}
+
+#block1{
+    display: inline-block;
+    width: 400px;
+    margin-left: 100px;
+}
+
+#block2{
+    display: inline-block;
+    background-color: aquamarine;
+    width: 300px;
+    height: 70px;
+    position: relative;
+    top: 15px;
+}
+
+.block2{
+    list-style-type: none;
+    text-align: center;
+    font-size: 15px;
+}
+
+.block2 li{
+    position: relative;
+    bottom: 15px;
+    right: 20px;
+}
+
+#block3{
+    background-color: cadetblue;
+    display: inline-block;
+    width: 500px;
+    height: 70px;
+    position: relative;
+    top: 18px;
+    text-align: center;
+}
+
+#block3 p{
+    font-size: 11px;
+    text-align: center;
+}
+
+#block3 input[type='text']{
+    width: 200px;
+    text-align: center;
+    height: 12px;
+}
+
+#block3 input[type='submit']{
+    height: 16px;
+    font-size: 11px;
+}
+
+#block3 a{
+    position: relative;
+    bottom: 10px;
+    margin-left: 5px;
+    font-size: 15px;
+}
+
+#son{
+    position: relative;
+    bottom: 8px;
+}
